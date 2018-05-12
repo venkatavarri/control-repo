@@ -21,14 +21,14 @@ Mod ‘ssh’,
   :ref  => master
 
 Mod ‘ntp’,
- :git  => ‘https://github.com/venkatavarri/puppet-ntp.git,
- :ref  => ‘master’
+  :git  => ‘https://github.com/venkatavarri/puppet-ntp.git',
+  :ref  => ‘master’
 
 Mod ‘role’,
-  :git  => ‘https://github.com/venkatavarri/puppet-role.git,
+  :git  => ‘https://github.com/venkatavarri/puppet-role.git',
   :ref  => ‘master’
 
 Mod ‘profile’
-  :git  => ‘https://github.com/venkatavarri/puppet-profile.git,
+  :git  => ‘https://github.com/venkatavarri/puppet-profile.git',
   :ref  => ‘master’
 
